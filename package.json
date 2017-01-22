@@ -1,0 +1,23 @@
+{
+  "name": "road",
+  "version": "1.0.0",
+  "description": "个人博客文集《寻找思想之路》",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "loppo server",
+    "build": "loppo",
+    "pages": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^0.12.0",
+    "husky": "^0.13.0",
+    "loppo": "^0.4.4"
+  }
+}

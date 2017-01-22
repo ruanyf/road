@@ -1,0 +1,5 @@
+dir: docs
+output: dist
+theme: oceandeep
+site: 寻找思想之路
+disqus: true
