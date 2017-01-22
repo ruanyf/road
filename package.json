@@ -10,6 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "loppo server",
     "build": "loppo",
+    "prepush": "npm run build && npm run pages",
     "pages": "gh-pages -d dist"
   },
   "keywords": [],
