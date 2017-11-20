@@ -18,7 +18,7 @@
 
 就像网上流传的一句话所说的。
 
-> ”梦想要大，否则走不远；步子要小，否则会摔跤。“（Make big dreams, because if you don't, you will end up in small places; Take small steps, otherwise you will end up with big troubles。）
+> “梦想要大，否则走不远；步子要小，否则会摔跤。”（Make big dreams, because if you don't, you will end up in small places; Take small steps, otherwise you will end up with big troubles.）
 
 当你干一件事的时候，如果你更关心什么时候才能获得回报，而不是什么时候能做出更大的成果，这通常是一个危险的信号，表明你的人生可能走错了路，你正在浪费自己的生命。
 
