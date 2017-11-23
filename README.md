@@ -8,4 +8,4 @@
 >
 > 所有其它的路都是不完整的，是人的逃避方式，是对社会角色的懦弱伪装，是随波逐流，是对内心的恐惧。”
 
-[![](docs/images/book_cover.sm.jpg)](docs/book_cover.jpg)
+[![](docs/images/book_cover.sm.jpg)](./images/book_cover.jpg)
