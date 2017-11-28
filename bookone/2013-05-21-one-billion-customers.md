@@ -1,6 +1,6 @@
 # 如何理解当代中国----《十亿消费者》读后感
 
-前几天，我读完的美国人 James McGregor 写的《十亿消费者》（One Billion Customers）。
+前几天，我读完了美国人 James McGregor 写的《十亿消费者》（One Billion Customers）。
 
 James McGregor 本来是《华尔街日报》和道琼斯集团在华负责人，后来辞职经商。为了对记者生涯做总结，他就写了这本书，让西方人了解如何在中国做生意。
 
