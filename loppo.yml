@@ -3,3 +3,4 @@ output: dist
 theme: oceandeep
 site: 前方的路
 disqus: true
+hasComments: true

@@ -11,14 +11,16 @@
     "server": "loppo server",
     "build": "loppo",
     "prepush": "npm run build && npm run pages",
-    "pages": "gh-pages -d dist"
+    "pages": "gh-pages -d dist",
+    "build-ryf": "rm -rf themes/ryf && loppo --id road --theme ryf"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "gh-pages": "^0.12.0",
-    "husky": "^0.13.0",
-    "loppo": "^0.4.4"
+    "gh-pages": "^1.1.0",
+    "husky": "latest",
+    "loppo": "latest",
+    "loppo-theme-ryf": "latest"
   }
 }
